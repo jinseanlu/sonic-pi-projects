@@ -1,4 +1,4 @@
-use_bpm 170
+use_bpm 176
 
 def bad_chord
   play :G3
