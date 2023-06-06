@@ -1,4 +1,5 @@
 ##| made with sonic-pi :)
+##| Okay, this is actually not that good...
 def song(smpl, note)
   live_loop :cheeseburger do
     sample smpl
